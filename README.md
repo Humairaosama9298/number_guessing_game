@@ -1,10 +1,10 @@
 # 🎯 Number Guessing Game
 
 Welcome to the **Number Guessing Game**! 🚀  
-Test your luck and guessing skills by finding the **secret number between 1 and 100** within **5 attempts**!  
+Test your luck and guessing skills by finding the **secret number between 50 and 100** within **5 attempts**!  
 
 ## 📌 How to Play:
-1. The program will generate a **random number between 1 and 100**.  
+1. The program will generate a **random number between 50 and 100**.  
 2. You have **5 attempts** to guess the correct number.  
 3. After each guess, you'll get hints:  
    - 📈 **Too high!** → Try a smaller number.  
