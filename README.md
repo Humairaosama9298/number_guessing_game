@@ -17,9 +17,13 @@ Test your luck and guessing skills by finding the **secret number between 50 and
    ```sh
    git clone https://github.com/your-username/number-guessing-game.git
    
-2. cd number-guessing-game
+2.Change Folder
+   ```sh
+   cd number-guessing-game
 
-3. python game.py
+3. Run code
+   ```sh
+   python game.py
 
 
 ## 🏆 Challenge Yourself!
